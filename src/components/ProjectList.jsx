@@ -10,7 +10,7 @@ const projects = [
       'React, React.Context, Zod, Redux, JSON-Server, Tailwind + Typography ',
     githubLink: 'https://github.com/aluaorl/Notion.git',
     deployLink: 'https://github.com/aluaorl/Notion.git',
-    image: 'images/project4.gif',
+    image: './images/project4.gif',
   },
   {
     title: 'API & SPA',
@@ -19,7 +19,7 @@ const projects = [
     tools: 'React, BrowserRouter, react-router-dom, Material-UI',
     githubLink: 'https://github.com/aluaorl/API.git',
     deployLink: 'https://aluaorl.github.io/API/',
-    image: 'images/project3.gif',
+    image: './images/project3.gif',
   },
   {
     title: 'Lamoda',
@@ -29,7 +29,7 @@ const projects = [
       'React, multiple filtering, functional components, Chance.js, CSS modules',
     githubLink: 'https://github.com/aluaorl/lamoda.git',
     deployLink: 'https://aluaorl.github.io/lamoda/',
-    image: 'images/project2.gif',
+    image: './images/project2.gif',
   },
   {
     title: 'TodoIST',
@@ -38,7 +38,7 @@ const projects = [
     tools: 'React,  class components, CSS modules',
     githubLink: 'https://github.com/aluaorl/TodoIst.git',
     deployLink: 'https://aluaorl.github.io/TodoIst/',
-    image: 'images/project1.gif',
+    image: './images/project1.gif',
   },
   {
     title: 'Game "Tic-Tac-Toe"',
@@ -47,7 +47,7 @@ const projects = [
     tools: 'JavaScript, HTML/CSS',
     githubLink: 'https://github.com/aluaorl/tic-toe.git',
     deployLink: 'https://aluaorl.github.io/tic-toe/',
-    image: 'images/project5.gif',
+    image: './images/project5.gif',
   },
   {
     title: 'Game "Minesweeper"',
@@ -56,7 +56,7 @@ const projects = [
     tools: 'JavaScript, HTML/CSS',
     githubLink: 'https://github.com/aluaorl/Minesweeper.git',
     deployLink: 'https://aluaorl.github.io/Minesweeper/',
-    image: 'images/project6.gif',
+    image: './images/project6.gif',
   },
 ]
 
