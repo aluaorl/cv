@@ -5,7 +5,7 @@ const AuthorInfo = () => {
     <div className="flex-col p-4 max-w-4xl mx-auto">
       <div className="flex items-center">
         <img
-          src="./images/photo.jpg"
+          src="images/photo.jpg"
           alt="avatar"
           className="mr-6 w-[100px] sm:w-[150px]  border-stone-400 border-[1px]"
         />
@@ -17,7 +17,7 @@ const AuthorInfo = () => {
           <div className="contacts flex-col mt-7 ">
             <p className="mr-0 sm:mr-4">
               <img
-                src="./images/mail.png"
+                src="images/mail.png"
                 alt="Email"
                 className="inline-block w-3.5 h-3.5 mr-3 ml-1 "
               />
@@ -30,7 +30,7 @@ const AuthorInfo = () => {
             </p>
             <p className="mr-4">
               <img
-                src="./images/tg.png"
+                src="images/tg.png"
                 alt="Telegram"
                 className="inline-block w-5 h-5 mr-2"
               />
@@ -40,7 +40,7 @@ const AuthorInfo = () => {
             </p>
             <p className="text-xs sm:text-base">
               <img
-                src="./images/loc.png"
+                src="images/loc.png"
                 alt="Location"
                 className="inline-block w-4 h-4 mr-3"
               />

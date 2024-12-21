@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="flex justify-center mt-8 border-t pt-4">
       <p className="mr-4">
         <img
-          src="./images/mail.png"
+          src="images/mail.png"
           alt="Email"
           className="inline-block w-3.5 h-3.5 mr-3 ml-1"
         />
@@ -13,7 +13,7 @@ const Footer = () => {
       </p>
       <p className="mr-4">
         <img
-          src="./images/github.png"
+          src="images/github.png"
           alt="Email"
           className="inline-block w-3.5 h-3.5 mr-3 ml-1"
         />
