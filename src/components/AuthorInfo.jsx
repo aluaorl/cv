@@ -48,7 +48,7 @@ const AuthorInfo = () => {
             </p>
             <p className="text-xs sm:text-base mt-2">
               <a
-                href="/cv.pdf"
+                href="cv.pdf"
                 className="text-emerald-900 underline"
                 target="_blank"
                 rel="noopener noreferrer"
