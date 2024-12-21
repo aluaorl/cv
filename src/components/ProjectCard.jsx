@@ -27,7 +27,7 @@ const ProjectCard = ({ project }) => {
         href={project.githubLink}
         className="mt-2 inline-flex items-center justify-end"
       >
-        <img src="images/github.png" alt="code" className="w-7 h-7" />
+        <img src="./images/github.png" alt="code" className="w-7 h-7" />
       </a>
     </div>
   )
